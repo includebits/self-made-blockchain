@@ -1,0 +1,15 @@
+{
+  "name": "eli-chain",
+  "version": "0.0.1",
+  "description": "Project created for the soul propose of getting a deeper understanding of blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-test": "nodemon dev.test.js"
+  },
+  "author": "includebits",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
